@@ -26,7 +26,7 @@ Explore a real universe in Minecraft! Build rockets to enter the cosmos dimensio
 
 📋 游戏内帮助：/microworld 指令查看所有指令列表
 
-Features
+
 🌌 Cosmos Dimension – Pure void with slow descent, deep blue starry background, nebulae, and dynamic twinkling stars
 
 🪐 300 Colored Light Points – 12 colors corresponding to different planet types, glowing circles, visible within 256 blocks
