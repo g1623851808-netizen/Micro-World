@@ -1,0 +1,23 @@
+{
+  "item.microworld.aluminum_ingot": "铝锭",
+  "item.microworld.titanium_ingot": "钛锭",
+  "item.microworld.dark_energy_shard": "暗能量水晶碎片",
+  "item.microworld.oxygen_fruit": "氧气果",
+  "item.microworld.elastic_vine": "弹性藤蔓",
+  "item.microworld.compressed_carbon": "压缩碳板",
+  "item.microworld.sealed_glass": "密封玻璃",
+  "item.microworld.propellant": "推进剂",
+  "block.microworld.aluminum_ore": "铝矿石",
+  "block.microworld.titanium_ore": "钛矿石",
+  "block.microworld.dark_energy_ore": "暗能量水晶矿",
+  "item.microworld.spacesuit_helmet": "宇航头盔",
+  "item.microworld.spacesuit_chest": "宇航胸甲",
+  "item.microworld.spacesuit_legs": "宇航护腿",
+  "item.microworld.spacesuit_boots": "宇航靴",
+  "item.microworld.astro_fuel": "宇航燃料",
+  "item.microworld.stargate_key": "星门秘钥",
+  "item.microworld.rocket": "火箭",
+  "block.microworld.oxygen_generator": "氧气生成器",
+  "item.microworld.space_builder": "太空建造器",
+  "item.microworld.planet_locator": "星球定位器"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "APA",
+    "ARA"
+  ],
+  "key": {
+    "A": { "item": "microworld:aluminum_ingot" },
+    "P": { "item": "microworld:propellant" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": {
+    "item": "microworld:rocket"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AGA",
+    " V "
+  ],
+  "key": {
+    "A": { "item": "microworld:aluminum_ingot" },
+    "G": { "item": "microworld:sealed_glass" },
+    "V": { "item": "microworld:elastic_vine" }
+  },
+  "result": {
+    "item": "microworld:spacesuit_helmet"
+  }
+}

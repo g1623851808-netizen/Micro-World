@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "target": "minecraft:stone",
+    "state": {
+      "Name": "microworld:aluminum_ore"
+    },
+    "size": 4,
+    "count": 8,
+    "bottom_offset": 10,
+    "top_offset": 0,
+    "maximum": 60
+  }
+}

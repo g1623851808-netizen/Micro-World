@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:coal_block" }
+  },
+  "result": {
+    "item": "microworld:compressed_carbon",
+    "count": 1
+  }
+}

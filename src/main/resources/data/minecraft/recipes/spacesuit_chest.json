@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T T",
+    "TCT",
+    "TTT"
+  ],
+  "key": {
+    "T": { "item": "microworld:titanium_ingot" },
+    "C": { "item": "microworld:compressed_carbon" }
+  },
+  "result": {
+    "item": "microworld:spacesuit_chest"
+  }
+}

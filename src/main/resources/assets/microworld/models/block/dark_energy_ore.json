@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "microworld:blocks/dark_energy_ore"
+  }
+}

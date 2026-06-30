@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "microworld:titanium_ore"
+  },
+  "result": "microworld:titanium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

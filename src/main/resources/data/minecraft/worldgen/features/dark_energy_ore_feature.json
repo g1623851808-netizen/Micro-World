@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "target": "minecraft:stone",
+    "state": {
+      "Name": "microworld:dark_energy_ore"
+    },
+    "size": 2,
+    "count": 2,
+    "bottom_offset": 1,
+    "top_offset": 0,
+    "maximum": 15
+  }
+}

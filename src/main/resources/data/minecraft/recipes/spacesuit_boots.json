@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "V V"
+  ],
+  "key": {
+    "A": { "item": "microworld:aluminum_ingot" },
+    "V": { "item": "microworld:elastic_vine" }
+  },
+  "result": {
+    "item": "microworld:spacesuit_boots"
+  }
+}

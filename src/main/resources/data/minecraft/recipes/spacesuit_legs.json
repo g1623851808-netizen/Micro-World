@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TAT",
+    "V V",
+    "A A"
+  ],
+  "key": {
+    "T": { "item": "microworld:titanium_ingot" },
+    "A": { "item": "microworld:aluminum_ingot" },
+    "V": { "item": "microworld:elastic_vine" }
+  },
+  "result": {
+    "item": "microworld:spacesuit_legs"
+  }
+}

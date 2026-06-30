@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "VVV",
+    "III"
+  ],
+  "key": {
+    "G": { "item": "minecraft:glass" },
+    "V": { "item": "microworld:elastic_vine" },
+    "I": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "item": "microworld:sealed_glass",
+    "count": 3
+  }
+}

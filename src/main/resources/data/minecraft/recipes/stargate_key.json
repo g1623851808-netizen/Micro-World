@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DSD",
+    "SOS",
+    "DSD"
+  ],
+  "key": {
+    "D": { "item": "microworld:dark_energy_shard" },
+    "S": { "item": "minecraft:diamond_block" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "result": {
+    "item": "microworld:stargate_key"
+  }
+}

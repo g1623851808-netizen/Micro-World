@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "GBG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gunpowder" },
+    "C": { "item": "minecraft:coal" },
+    "B": { "item": "minecraft:blaze_powder" }
+  },
+  "result": {
+    "item": "microworld:propellant",
+    "count": 2
+  }
+}

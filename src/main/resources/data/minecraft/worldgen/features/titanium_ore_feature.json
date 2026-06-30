@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "target": "minecraft:stone",
+    "state": {
+      "Name": "microworld:titanium_ore"
+    },
+    "size": 3,
+    "count": 4,
+    "bottom_offset": 5,
+    "top_offset": 0,
+    "maximum": 30
+  }
+}
